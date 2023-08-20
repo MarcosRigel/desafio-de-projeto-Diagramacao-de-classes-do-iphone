@@ -15,6 +15,5 @@ comportamentos esperados:
 -  Aparelho Telefônico: ligar, atender, iniciarCorreioVoz
 -  Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina
 
+![UML](https://github.com/MarcosRigel/desafio-de-projeto-Diagramacao-de-classes-do-iphone/assets/63622155/88c9e09d-a3da-4630-a20f-1a769a9285e5)
 
-
-![UML](C:\Users\Marcos Rigel\OneDrive\Área de Trabalho\UML.png)
